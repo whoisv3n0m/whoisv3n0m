@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/aNraVCax) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/whoisv3n0m ) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@whoisv3n0m ) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/whoisv3n0m ) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@whoisv3n0m ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thev3n0mg0t3rr0r@gmail.com) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/aNraVCax) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/whoisv3n0m ) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@whoisv3n0m ) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/whoisv3n0m ) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@whoisv3n0m ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:contact@v3n0m.in)(mailto:thev3n0mg0t3rr0r@gmail.com) 
 
 # 💻 Tech Stack:
 
@@ -41,3 +41,7 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=whoisv3n0m&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
